@@ -41,7 +41,7 @@ A professional, responsive authentication system built with HTML5, Bootstrap 5, 
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### Registration Page
 ![Registration Page](screenshots/register.png)
